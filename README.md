@@ -6,4 +6,6 @@
 
 #### Task 2 : Student scores prediction using Linear Regression For this task, we applied Linear Regression for predicted student's percentage based on the no. of study hours.
 
+#### Datasets : http://bit.ly/w-data
+
 ## Video (YouTube) Link: https://youtu.be/YFtmhCgV-Ck
